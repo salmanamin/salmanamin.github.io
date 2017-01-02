@@ -1,0 +1,11 @@
+move logo up
+move cta down
+fix style3 font colors
+fix tests height
+
+
+
+
+Preview on different screen sizes
+Clean up code
+Upload website
