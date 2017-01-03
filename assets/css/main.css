@@ -3693,9 +3693,7 @@
 		}
 
 		@media screen and (max-width: 736px) {
-			.carousel {
-				height: 550px;
-			}
+
 
 			#main > header {
 				padding: 5em 3em 3em 3em ;
@@ -3871,3 +3869,8 @@
     width: 100%;
     height: auto;
 }
+
+@media screen and (max-width: 736px) {
+	.carousel {
+		height: 400px;
+	}
