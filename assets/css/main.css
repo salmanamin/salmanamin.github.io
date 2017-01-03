@@ -3854,6 +3854,7 @@
 	header img {
 	  height: 70%;
 	  margin-top: 10px;
+		/*width: 50%;*/
 	}
 	.carousel {
 	  height: 250px;
@@ -3861,3 +3862,9 @@
 	.carousel-indicators {
 	  margin-top: 20px;
 	}
+
+.homepagediv img {
+
+    width: 100%;
+    height: auto;
+}
